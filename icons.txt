@@ -1,0 +1,34 @@
+/textures/icons/power-off-button.png
+/textures/icons/power off.png
+/textures/icons/minimize 1.png
+/textures/icons/minimize 2.png
+/textures/icons/back_alt.png
+/textures/icons/Information.ico
+/textures/icons/off_color.png
+/textures/icons/on.jpeg
+/textures/icons/timetable.png
+/textures/icons/Delete_32x32.png
+/textures/icons/lock_48.png
+/textures/icons/Check_32x32.png
+/textures/icons/
+/textures/icons/
+/textures/icons/
+/textures/icons/
+/textures/icons/
+/textures/icons/
+/textures/icons/
+/textures/icons/
+/textures/icons/
+/textures/icons/
+/textures/icons/
+/textures/icons/
+/textures/icons/
+/textures/icons/
+/textures/icons/
+/textures/icons/
+/textures/icons/
+/textures/icons/
+/textures/icons/
+/textures/icons/
+
+

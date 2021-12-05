@@ -1,0 +1,10 @@
+BE Soft School Timetable
+ID
+Password
+Login
+Forgot ID
+Forgot Password
+Login Account
+Wrong Password, Please try again
+The Account doesn't exit
+Create Account
